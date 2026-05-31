@@ -25,13 +25,11 @@
     
   </p>
 
-  <table align="center" cellspacing="20" style="border: none; background: transparent;">
-    <tr>
-      <td align="center" colspan="2" style="border-radius:20px; box-shadow:0 10px 30px rgba(0,255,170,0.2); background:linear-gradient(145deg,#1a1b27,#2d2f3f); padding:15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakerhakb11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=c9d1d9" width="600" style="border-radius:15px;" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=hakerhakb11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=c9d1d9" width="400" alt="Top Langs" />
+  </a>
+</p>
 
   <br>
   <p align="center">
