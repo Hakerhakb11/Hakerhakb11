@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
     <span style="background: linear-gradient(90deg, #00ffaa, #00cc88); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">
-      Я hakerhakb11
+      Я Hakerhakb11
     </span>
   </h1>
-  <p><b>Java • Python • HTML разработчик</b></p>
+  <p><b>Java • Python Backend разработчик</b></p>
 
   <!-- Первый ряд: основные технологии -->
   <p>
